@@ -1,0 +1,70 @@
+body{
+   
+    background: url(statue.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1{
+    color: tomato;
+    font-family: Rubik Doodle Shadow;
+    font-size: 70px;
+ padding-left: 150px;
+    margin-left: 500;
+    margin-right: 300;
+    border-left-style: double;
+    border-style:solid;
+    border-width: 20px;
+    border-radius: 30px;
+    border-color: greenyellow;
+   
+ background-color: transparent;
+ backdrop-filter: blur(20px);
+}
+.p1 {
+    border: inset;
+}
+.odd {
+    color: tomato;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: no;
+    border-style: outset;
+    border-width: 10px;
+    border-color: gold;
+    border-radius: 30px;
+    padding: 10px;
+    backdrop-filter: blur(20px);
+  
+  
+
+}
+.even{
+    color: white;
+    font-weight: bold;
+    text-decoration-thickness: 10px;
+    font-size: 30px;
+    background-color: transparent;
+    border-style: inset;
+    border-width: 10px;
+    border-color: gold;
+    border-radius: 30px;
+    padding-inline-end: 20px;
+    backdrop-filter: blur(20px);
+
+}
+
+    .wrapper{
+        position: relative;
+        width: 400px;
+        height: 500px;
+        background-color: transparent;
+        border-color: 2px solid ;
+        border-radius: 3px;
+        backdrop-filter: blur(20px);
+
+    }
+
+
